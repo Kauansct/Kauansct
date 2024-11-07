@@ -24,8 +24,8 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
-  <img src="https://skillicons.dev/icons?i=java,javascript,python" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" /><br>
 </div>
 
 <br/>
